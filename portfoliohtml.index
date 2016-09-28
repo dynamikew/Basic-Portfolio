@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 <html>
-<head> 
-	<title>Portfolio Homework</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+	<link rel="stylesheet" type="text/css" href="style.css">
+<head>
+	<title>Portfolio Page</title>
 </head>
 <body>
 	<header>
 	<div>
-	<h1>Michael Waldron</h1>
+	<h1>Portfolio</h1>
 	<h3>
 		<ul>
-			<li>About</li>
-			<li>Portfolio</li>
-			<li>Contact</li>
+			<li><a href="https://css-tricks.com/all-about-floats/"<strong>About</strong>></a></li>
+			<li><a href="https://www.facebook.com/"><strong>Portfolio</strong></a></li>
+			<li><a href="https://www.facebook.com/"><strong>Contact</strong></a></li>
 		</ul>
 	</h3>
 </div>	
 	</header>
 <div>	
-	<section id="main body">
+	<section id="main-body">
 		<h2>About Me</h2>
+		<img src="http://placehold.it/200x200" alt="Michael Waldron">
 			<p>I am new to coding. I work as an installer for Bungalow Scenic Studios. I've worked there for 2 years and before that I was a carpenter behind an architects house. Before that I worked in theatres all throughout college desiging,building, and running shows all over the country. </p>
 	</section>
 </div>
 <div>
-	<section id="contact info">	
+	<section id="contact">	
 	<h2>Connect with Me</h2>
+	
 
 	</section>
-</div>
+
 </body>
 </html>

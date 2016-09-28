@@ -1,0 +1,70 @@
+
+h1 {
+	width: 10%;
+}
+/**ul {
+	
+	float: right;
+	background-color: gray;
+	margin: 0;
+	padding: 40px;
+	border-width: 40px;
+	width: 50%;
+}**/
+body {
+	background-color: #efeee7;
+	margin: 0;
+	padding: 130px;
+	font-family: "Georgia", "Courier";
+	font-size: 18px;
+	line-height: 150%;
+
+}
+h1 {
+	width: 50%;
+}
+p {
+	float: right;
+}
+
+#main-body{
+	float: left;
+	padding-left:  20px;
+	padding-right: 90px;
+	width: 30%;
+	background-color: #666;
+	margin: 0px;
+
+}
+#body{
+	width: 50%;
+	float: right;
+}
+
+#contact2{
+	padding-top: 10px;
+	float: right;
+	background-color: #888;
+	width: 30%;
+}
+
+#header{
+	background-color: #ccc;
+	width: 12%;
+}
+#about{
+	width: 20%;
+	float: right;
+}
+#portfolio{
+	width: 20%;
+	float: right;
+}
+#contact1{
+	width: 20%;
+	float: right;
+}
+
+
+
+
